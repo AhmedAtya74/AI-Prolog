@@ -1,1 +1,3 @@
-# AI-Prolog
+# AI Prolog
+
+### AI Lab Task
